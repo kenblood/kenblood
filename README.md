@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenblood     
-- 👀 I’m interested in     keeping my mind in the game.   Retired now, was a developer from 1969- 
-- 🌱 I’m currently learning golang ecosystem, and building useful go intuitions.
+- 👀 I’m interested in: keeping my mind in the game.   Retired now, was a developer from 1969 until 2020 primarily HP & MS & .NET systems.   Many different programming languages.
+- 🌱 I’m currently learning the Dart ecosystem, and building useful intuitions about it.
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me kenblood@gmail.com...
 
